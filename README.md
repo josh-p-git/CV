@@ -44,6 +44,13 @@ Javascript | Ruby | Python | React | Express | MongoDB | RSpec | Jest | HTML | C
 
 * An exciting assortment of previous roles, including carehome administrator, lobster cook, accounting assistant, finance assistant and mail sorter
 
+## Education
+
+* 2023 - Completed 16 week coding bootcamp, Makers Academy
+* 2019 - Post Graduate Diploma in Social Work, The Open University
+* 2013 - BSC/BA In Business and Accounting, The University of Northampton
+* 2009 - A Levels in ICT, Computing and EBusiness
+
 ## Hobbies
 
 Board games, gardening, cat wrangling
