@@ -18,13 +18,10 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 
 **Mental Health Practitioner at CAMHS Southampton (NHS)** (Feb 2022/Nov 2023)  
 
-*Managed a complex caseload of children with various mental health needs, managing risk and providing therapeutic support
-
-*Completed assessments with children covering areas such as low mood, anxiety, ADHD and Autism
-
-*Triaged new referrals to the service
-
-*Worked as part of a multi-disciplinary team and managed the child’s team of key professionals
+* Managed a complex caseload of children with various mental health needs, managing risk and providing therapeutic support
+* Completed assessments with children covering areas such as low mood, anxiety, ADHD and Autism
+* Triaged new referrals to the service
+* Worked as part of a multi-disciplinary team and managed the child’s team of key professionals
 
 ## Skills
 
