@@ -14,58 +14,36 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 | **[Tube Tracks](https://github.com/josh-p-git/tube-tracks)** | An 'auditory experience'. Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
 | **[Bank exercise](https://github.com/josh-p-git/bank-tech-test-2)** | A tech question showing 100% testing coverage. | Javascript, Jest              |
 
+
+## Tech Skills
+
+Javascript | Ruby | Python | React | Express | MongoDB | RSpec | Jest | HTML | CSS | Agile | Debugging | TDD
+
 ## Work Experience
 
-**Mental Health Practitioner at CAMHS Southampton (NHS)** (Feb 2022/Nov 2023)  
+**Mental Health Practitioner at CAMHS (NHS)** (Feb 2022/Nov 2023)  
 
 * Managed a complex caseload of children with various mental health needs, managing risk and providing therapeutic support
 * Completed assessments with children covering areas such as low mood, anxiety, ADHD and Autism
 * Triaged new referrals to the service
 * Worked as part of a multi-disciplinary team and managed the child’s team of key professionals
 
-## Skills
+**Qualified Child Protection Social Worker** (Aug 2019/Feb 2022)  
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+* Managed a complex caseload of children at risk of or experiencing abuse 
+* Worked 1:1 with children and families
+* Worked as part of a team in a high pressure, SMART goal focused environment
+* Managed the child’s team of key professional to ensure best outcomes for the family
+* Presented evidence in court as required
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+**Business Support Officer** (Apr 2014/Aug 2019)  
 
+* Completed various administrative tasks such as minuting meetings, answering calls and preparing paperwork
 
-Here's an example
+**Prior to this date** 
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+* An exciting assortment of previous roles, including carehome administrator, lobster cook, accounting assistant, finance assistant and mail sorter
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Board games, gardening, cat wrangling
