@@ -9,10 +9,10 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Pensano Website**            | A website documenting the solo and colaborative projects of four developers. [Website](https://pensano.dev) (Please note it is under construction!)| React |
-| **Tube Tracks** | An 'autditory experience' Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
-| **Acebook** | A webapp to do y. | Ruby              |
-| **Makers BnB** | A webapp to do y. | Ruby              |
-| **Bank exercise** | A webapp to do y. | Ruby              |
+| **Tube Tracks** | An 'auditory experience'. Data Sonification of Live Tfl Tube Arrival Data | Javascript, React, Tone.js, Express, Cypress, Jest, REST |
+| **Acebook** | A social media website inlcuding account setup, timeline and friends list | MongoDB, React, Express, Nodejs, HTML, CSS              |
+| **Makers BnB** | A airBnB style website that allows you to view and book properties based on their availability. | Ruby, HTML, CSS, RSpec          |
+| **Bank exercise** | A tech question showing 100% testing coverage. | Javascript, Jest              |
 
 ## Work Experience
 
