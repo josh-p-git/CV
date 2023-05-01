@@ -16,15 +16,17 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mental Health Practitioner at CAMHS Southampton (NHS)** (Feb 2022/Nov 2023)  
+
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+*Managed a complex caseload of children with various mental health needs, managing risk and providing therapeutic support
+*Completed assessments with children covering areas such as low mood, anxiety, ADHD and Autism
+*Triaged new referrals to the service
+*Worked as part of a multi-disciplinary team and managed the child’s team of key professionals
 
 ## Skills
 
