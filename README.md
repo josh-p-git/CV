@@ -1,10 +1,10 @@
-# CV
+## Josh Penney
 
-## Your Name
+Social Worker turned Software Developer. I am looking to use my skills in teamwork, collaboration and goal focused work combined with my skills in tech to make the jump into an exciting new career.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I have recently completed a 16 week intensive coding bootcamp at Makers and am looking for work in London/East Anglia.
 
-## Projects
+## Noteworthy projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
