@@ -8,8 +8,11 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Pensano Website**            | A website documenting the solo and colaborative projects of four developers. pensano.dev | React |
+| **Tube Tracks** | A webapp to do y. | Ruby              |
+| **Acebook** | A webapp to do y. | Ruby              |
+| **Makers BnB** | A webapp to do y. | Ruby              |
+| **Bank exercise** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
