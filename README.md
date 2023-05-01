@@ -8,9 +8,7 @@ I have recently completed a 16 week intensive coding bootcamp at Makers and am l
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Pensano Website**            | A website documenting the solo and colaborative projects of four developers. 
-[Website](https://pensano.dev) 
-(Please note it is under construction!)| React |
+| **Pensano Website**            | A website documenting the solo and colaborative projects of four developers. [Website](https://pensano.dev) (Please note it is under construction!)| React |
 | **Tube Tracks** | A webapp to do y. | Ruby              |
 | **Acebook** | A webapp to do y. | Ruby              |
 | **Makers BnB** | A webapp to do y. | Ruby              |
